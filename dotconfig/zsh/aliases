@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+
+# SYSTEM
+alias shutdown='sudo shutdown -h now'
+alias restart='sudo reboot'
+
+# ls
+alias ls='ls --color=auto'
+
+# PACMAN
+alias paci='sudo pacman -S'            # install
+alias pacr='sudo pacman -R'            # remove
+alias pacrr='sudo pacman -Rs'          # remove package with unused dependencies by other softwares
+alias pacs='sudo pacman -Ss'           # search
+alias pacu='sudo pacman -Syu'          # update
+alias pachi='sudo pacman -Ql'          # Pacman Has Installed - what files where installed in a package
