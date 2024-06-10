@@ -2,4 +2,6 @@
 
 1. [Auto-suggesstions](https://github.com/zsh-users/zsh-autosuggestions)
 2. [Fast Syntax Highlighting](https://github.com/zdharma-continuum/fast-syntax-highlighting)
-3. [Rose pine alacrtitty theme](https://github.com/rose-pine/alacritty?tab=readme-ov-file)
+
+# Alacritty
+1. [Rose pine alacrtitty theme](https://github.com/rose-pine/alacritty?tab=readme-ov-file)
