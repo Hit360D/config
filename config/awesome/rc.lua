@@ -46,7 +46,7 @@ end
 -- {{{ Variable definitions
 -- Themes define colours, icons, font and wallpapers.
 beautiful.init("/home/suryansh/.config/awesome/theme.lua")
-beautiful.get().wallpaper = "/home/suryansh/Downloads/wallpaper3.jpg"
+beautiful.get().wallpaper = "/home/suryansh/Downloads/wallpaper1.jpg"
 
 -- This is used later as the default terminal and editor to run.
 -- terminal = "xterm"
