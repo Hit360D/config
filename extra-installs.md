@@ -5,3 +5,6 @@
 
 # Alacritty
 1. [Rose pine alacrtitty theme](https://github.com/rose-pine/alacritty?tab=readme-ov-file)
+
+# Rofi
+1. [Rofi themes collection](https://github.com/newmanls/rofi-themes-collection)
