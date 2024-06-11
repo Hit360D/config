@@ -8,3 +8,4 @@
 
 # Rofi
 1. [Rofi themes collection](https://github.com/newmanls/rofi-themes-collection)
+2. [Rofi theme selector guide](https://man.archlinux.org/man/rofi-theme-selector.1.en)
