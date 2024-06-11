@@ -1,0 +1,22 @@
+/*******************************************************************************
+ * ROUNDED THEME FOR ROFI
+ * Theme Repo           : https://github.com/lr-tech/rofi-themes-collection
+ * Note to self: The rofi themes are placed in /usr/share/rofi/themes and then use rofi-theme-selector from run menu
+ *******************************************************************************/
+
+* {
+    bg0:    #232136CC;
+    bg1:    #232136;
+    bg2:    #56526e80;
+    bg3:    #b4637aCC;
+    fg0:    #D8DEE9;
+    fg1:    #ECEFF4;
+    fg2:    #D8DEE9;
+    fg3:    #4C566A;
+}
+
+@import "rounded-common.rasi"
+
+element selected {
+    text-color: @bg1;
+}
