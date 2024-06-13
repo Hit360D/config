@@ -12,6 +12,3 @@
 
 # Polybar
 1. [Rose Pine theme](https://github.com/rose-pine/polybar)
-
-# Spotify
-1. [Spicetify themes](https://github.com/spicetify/spicetify-themes/blob/master/README.md)
